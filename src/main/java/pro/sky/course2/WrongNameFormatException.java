@@ -1,7 +1,6 @@
 package pro.sky.course2;
 
 
-@ResponseStatus
 public class WrongNameFormatException extends RuntimeException {
 
     public WrongNameFormatException() {
